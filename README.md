@@ -41,7 +41,3 @@ Before running the scripts, make sure to:
 ## Contributing
 
 If you have suggestions, find issues, or want to contribute, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](url) file for details.
